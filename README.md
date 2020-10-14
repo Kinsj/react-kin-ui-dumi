@@ -1,27 +1,15 @@
-# kin-doc-dumi
+# react-kin-ui
 
-## Getting Started
+## 介绍
+这款组件库一开始是为了总结经验，提升技能，提炼业务所造的轮子。  
+所以从技术栈上选择了 React Hooks + TypeScript。  
+文档是采用了 Dumi 文档方案，所以和源码并不在一起。  
+我会持续完善组件，抽离业务中常用的功能来造成更好的轮子。
 
-Install dependencies,
-
-```bash
-$ npm i
+## 安装
+```shell script
+yarn add react-kin-ui
 ```
 
-Start the dev server,
-
-```bash
-$ npm start
-```
-
-Build documentation,
-
-```bash
-$ npm run docs:build
-```
-
-Build library via `father-build`,
-
-```bash
-$ npm run build
-```
+## Github
+[react-kin-ui](https://github.com/Kinsj/react-kin-ui)
