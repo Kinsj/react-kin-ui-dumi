@@ -8,5 +8,6 @@ export default defineConfig({
   logo: 'https://kinsj.github.io/blog/avatar.png',
   outputPath: 'docs-dist',
   // more config: https://d.umijs.org/config
-  publicPath: './'
+  publicPath: './',
+  base: '/Kinsj/react-kin-ui-dumi/'
 });
