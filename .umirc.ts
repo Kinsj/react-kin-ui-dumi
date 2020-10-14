@@ -9,5 +9,5 @@ export default defineConfig({
   outputPath: 'docs-dist',
   // more config: https://d.umijs.org/config
   publicPath: './',
-  base: '/Kinsj/react-kin-ui-dumi/'
+  base: '/react-kin-ui-dumi/'
 });
